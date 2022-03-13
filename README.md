@@ -7,15 +7,15 @@ Queue tracking system is a system which can improve a business by managing custo
 
 
 
-Watch demo here 
+** **Watch demo here 
 https://drive.google.com/file/d/1Fl86G8voNho3Zbv9EtyJf-crY8hoHr2_/view
 
-Download Android App
+** **Download Android App
 https://drive.google.com/file/d/1vsZxCNm08aN19jM2nFYW70PA_LRE9U7-/view?usp=sharing
 
 
 
-Previews
+** **Previews
 
 ![aa](https://user-images.githubusercontent.com/100606016/158040887-30e5273f-3604-4a21-aad5-344571bece51.PNG)
 
